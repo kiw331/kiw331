@@ -6,9 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiw331&layout=compact" alt="kiw331's top languages" height="170px"/>
 </p>
 
-
 ## PS rate
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colini)](https://solved.ac/colini/)
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=colini" height="170" alt="Solved.ac Profile" />
+  <img src="https://cf.leed.at?id=kiwi331" height="170" alt="CodeForces Profile" />
+</div>
+
 
 
 
