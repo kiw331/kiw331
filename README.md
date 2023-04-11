@@ -7,12 +7,10 @@
 </p>
 
 ## PS rating
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=colini" height="170" alt="Solved.ac Profile" />
-
-<!-- <div align="center">
+<div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=colini" height="170" alt="Solved.ac Profile" />
   <img src="https://cf.leed.at?id=kiwi331" height="170" alt="CodeForces Profile" />
-</div> -->
+</div>
 
 
 <!--
