@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiw331&layout=compact" alt="kiw331's top languages" height="170px"/>
 </p>
 
-## PS rate
+## PS rating
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=colini" height="170" alt="Solved.ac Profile" />
 
 <!-- <div align="center">
