@@ -74,6 +74,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Tech blog
+<!-- Velog -->
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white&logoWidth=40)](https://velog.io/@ikiw/posts)
+<!-- Notion -->
+[![TIL](https://img.shields.io/badge/TIL-000000?style=for-the-badge&logo=notion&logoColor=white&logoWidth=40)](https://notion.so/yourID)
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
 
@@ -100,7 +106,20 @@
 
 </div>
 
+## Contact
+📫 Feel free to contact me  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mingureion@gmail.com)
 
+<a href="mailto:mingureion@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-mingureion%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="mailto:mingureion@gmail.com">
+  <img src="https://img.shields.io/badge/-mingureion@gmail.com-808080?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335">
+</a>
+
+## 이모티콘만 키우기
+<span style="font-size:64px">📫</span> 
+Feel free to contact me
 
 
 
