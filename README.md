@@ -14,7 +14,7 @@ I enjoy learning new technologies and gaining experience through projects.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiw331&repo=rocky-linux)](https://github.com/kiw331/rocky-linux)
 
-I write about my projects and technical insights on my Tech Blog, and organize learning materials in my Study Log.
+📝 Visit my Tech Blog for projects and insights, and my Study Log for learning resources.
 <!-- Velog -->
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white&logoWidth=30)](https://velog.io/@ikiw/posts)<!-- Notion -->
 [![TIL](https://img.shields.io/badge/TIL-000000?style=for-the-badge&logo=notion&logoColor=white&logoWidth=30)](https://notion.so/yourID)  
