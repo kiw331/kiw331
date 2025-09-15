@@ -2,12 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FAEBD7&height=250&text=🎉welcome🎉&fontColor=423B34&fontAlignY=37&animation=fadeIn&desc=kiw's%20GitHub%20Profile&descAlignY=55&descAlign=62)
 
 👋 Hi there, I'm Inwoo Kang!  
+<!--
 I majored in Computer Science and have a strong interest in robot software.  
 I am particularly focused on vision-based robot control, applying object detection models like YOLO for robotic perception.  
 I have worked on manipulator control as well as lane following, SLAM, and navigation projects using TurtleBot.  
-<!-- Currently, I am learning reinforcement learning and other emerging technologies.
+
 -->
 <br>
+<!-- Currently, I am learning reinforcement learning and other emerging technologies.-->
+
 
 I enjoy learning new technologies and gaining experience through projects.  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Here are some of the repositories I'm currently working on:  
