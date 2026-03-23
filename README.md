@@ -16,6 +16,8 @@ I enjoy learning new technologies and gaining experience through projects.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Here are some of the repositories I'm currently working on:  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiw331&repo=rocky-linux)](https://github.com/kiw331/rocky-linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiw331&repo=book-scanner-nal)](https://github.com/kiw331/book-scanner-nal)
+
 
 📝 Visit my Tech Blog for projects and insights, and my Study Log for learning resources.
 <!-- Velog -->
